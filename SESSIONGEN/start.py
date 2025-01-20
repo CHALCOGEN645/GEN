@@ -17,15 +17,15 @@ async def start(bot: Client, msg: Message):
 ɪ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴀʟʟ ᴛʏᴘᴇ ᴏғ sᴇssɪᴏɴs..
 ᴄʟɪᴄᴋ ᴏɴ ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ!
 
-ᴍᴀᴅᴇ ʙʏ: [chalcogen](https://t.me/chalcogenxd) !""",
+ᴍᴀᴅᴇ ʙʏ: [MALWARE](https://t.me/BTW_CHALCOGEN) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="𖤍 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 𖤍", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("ꨄ︎ sᴜᴘᴘᴏʀᴛ ꨄ︎", url="https://t.me/penguin_x_store"),
-                    InlineKeyboardButton("ఌ︎ ᴄʜᴀɴɴᴇʟ ఌ︎", url="https://t.me/penguin_x_store")
+                    InlineKeyboardButton("ꨄ︎ sᴜᴘᴘᴏʀᴛ ꨄ︎", url="https://t.me/ITZ_SOULMATES"),
+                    InlineKeyboardButton("ఌ︎ ᴄʜᴀɴɴᴇʟ ఌ︎", url="https://t.me/SPARKLE_SOCIETY")
                 ]
             ]
         ),
